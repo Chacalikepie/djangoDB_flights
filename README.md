@@ -19,3 +19,7 @@ f.save()
 
 #Select all
 <class>.objects.all()
+  
+#Create Admin Page
+python manage.py createsuperuser
+
