@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\airline",
+    "\\flights",
+    "\\flights\\migrations",
+    "\\flights\\templates",
+    "\\flights\\templates\\flights"
+  ],
+  "SelectedNode": "\\flights\\migrations\\0001_initial.py",
+  "PreviewInSolutionExplorer": false
+}
